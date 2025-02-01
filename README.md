@@ -1,1 +1,3 @@
 # Energy-Insights
+
+This Power BI report offers a comprehensive analysis of the energy performance of cities in Bretagne, France. It visualizes key metrics such as energy consumption and greenhouse gas (GHG) emissions through interactive dashboards. The report includes an interactive map to highlight areas of high energy usage, a comparison feature to analyze the performance of two selected cities, and various charts showcasing trends based on building types, energy sources, and construction years. Designed with a clean, minimalist layout, the report aligns with the provided graphic guidelines for clear, insightful data interpretation.
